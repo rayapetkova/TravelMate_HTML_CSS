@@ -1,6 +1,8 @@
 # TravelMate_HTML_CSS
 This is a repository in which I will create the HTML and CSS for my project TravelMate (Django + React).
 
+Link to the project repo: https://github.com/rayapetkova/TravelMate
+
 ## Example templates:
 - https://themewagon.github.io/gotrip/
 - https://themewagon.github.io/trips/
